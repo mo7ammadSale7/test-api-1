@@ -54,7 +54,6 @@ REST_FRAMEWORK = {
 # blog > post > post.author -- edit post ?????
 
 
-
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
